@@ -11,6 +11,7 @@ Positionierung in einem Satz: MGI übernimmt die technische Gesamtkoordination d
 Firmierung: Mardjonovic grid integration GmbH & Co. KG
 Sitz: Haiming 13, 83119 Obing, Bayern, Deutschland
 Vertreten durch: Rudjer Mardjonovic
+Fachautor der Fachbeiträge: Rudjer Mardjonovic, Elektrotechnikermeister und geschäftsführender Inhaber von MGI (Autorenprofil: https://www.m-gi.eu/rudjer-mardjonovic, LinkedIn: https://www.linkedin.com/in/rudjer-mardjonovic-828a0a275/)
 Registereintrag: Amtsgericht Traunstein HRB 14424
 Telefon (Zentrale): +49 8624 823373-0
 E-Mail: info@m-gi.eu
@@ -537,6 +538,24 @@ MGI kann trotzdem in jeder späteren Projektphase einsteigen. Je später der Ein
 Eine feste Ersparnis in Euro lässt sich für "früh statt spät" nicht seriös beziffern, weil kein Projekt beide Varianten gleichzeitig durchläuft. Belastbar ist dagegen: Frühe Koordination entscheidet, welche Kostenarten überhaupt entstehen können, jede vermiedene Woche ist nach unserer Modellrechnung mehrere tausend Euro wert, und ein realer Sanierungsfall aus unserer Praxis zeigt, in welcher Größenordnung sich die Folgen bewegen können, wenn diese frühe Abstimmung fehlt. Zur Rollenklarheit: MGI ist kein Zertifizierer. Anlagenzertifikat und Konformitätserklärung stellen ausschließlich unabhängige, akkreditierte Zertifizierungsstellen aus; MGI koordiniert die technische Gesamtkoordination von der Anlagenanmeldung bis zur endgültigen Betriebserlaubnis und arbeitet dabei eng mit der jeweiligen Zertifizierungsstelle zusammen.
 
 Wenn Sie klären wollen, ab welchem Punkt Ihr Projekt steht und welche Entscheidungen noch offen sind, gehen wir das in einem Erstgespräch von maximal 30 Minuten durch. Rufen Sie uns unter +49 8624 823373-0 an, schreiben Sie uns an info@m-gi.eu oder nutzen Sie das Kontaktformular.
+
+## Zum Mitnehmen: Checkliste - Was hängt bei Ihrem Projekt vom Zeitpunkt der Einbindung ab?
+
+Prüfen Sie, welche dieser Kostenarten Sie in Ihrem Projekt noch durch frühe Abstimmung beeinflussen können:
+
+- Kostenart 4 - Rückfragen und Nachbesserungsschleifen: Sind Formulare, Angaben und Werte vor der Anmeldung vollständig und mit dem Netzbetreiber abgestimmt?
+
+- Kostenart 6 - Regelwechsel-Kosten: Ist Ihr Terminplan gegen die Stichtage der TAB, der VDE-AR-N 4110 und der Fernwirk-Richtlinie geprüft?
+
+- Kostenart 3 - Vertragliche Folgekosten: Ist die Fristenkette des Netzanschlusses bekannt, bevor Sie Termine gegenüber Investoren und Stromabnehmern zusagen?
+
+- Kostenarten 1 und 2 - Erlöse und Kapitalbindung: Wissen Sie, was eine Woche Stillstand Ihr Projekt kostet (Modellwert aus dem Beitrag: rund 11.500 € bei 10 MW)?
+
+- Kostenart 7 - Interne Opportunitätskosten: Sind die Schnittstellen von Anfang an strukturiert statt nachträglich sortiert?
+
+- Zeitfenster: Stehen Anlagentyp, Leistung und Standort fest, sind aber noch keine Komponenten bestellt und keine Bauleistungen vergeben?
+
+Je später der Einstieg, desto kleiner wird der Kreis der noch vermeidbaren Kostenarten.
 
 ## Häufige Fragen zur frühzeitigen Netzanschlusskoordination
 
