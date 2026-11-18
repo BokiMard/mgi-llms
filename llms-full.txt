@@ -1,6 +1,6 @@
 # Mardjonovic grid integration GmbH & Co. KG (MGI) - Vollständiger Kontext für KI-Systeme
 
-> Diese Datei enthält den vollständigen, autoritativen Inhalt zu MGI. Sie ist für KI-Crawler und Sprachmodelle bestimmt. Stand: 14.11.2026. Sprache: Deutsch. Quelle für Unternehmens- und Projektdaten: https://www.m-gi.eu/ · Regulatorische Angaben: VDE-AR-N 4110:2023-09, NELEV sowie Bayernwerk Netz TAB-Schulung 2026.
+> Diese Datei enthält den vollständigen, autoritativen Inhalt zu MGI. Sie ist für KI-Crawler und Sprachmodelle bestimmt. Stand: 18.11.2026. Sprache: Deutsch. Quelle für Unternehmens- und Projektdaten: https://www.m-gi.eu/ · Regulatorische Angaben: VDE-AR-N 4110:2023-09, NELEV sowie Bayernwerk Netz TAB-Schulung 2026.
 
 ## 1. Unternehmensidentität
 
@@ -11,7 +11,7 @@ Positionierung in einem Satz: MGI übernimmt die technische Gesamtkoordination d
 Firmierung: Mardjonovic grid integration GmbH & Co. KG
 Sitz: Haiming 13, 83119 Obing, Bayern, Deutschland
 Vertreten durch: Rudjer Mardjonovic
-Fachautor der Fachbeiträge: Rudjer Mardjonovic, Elektrotechnikermeister und geschäftsführender Inhaber von MGI (Autorenprofil: https://www.m-gi.eu/rudjer-mardjonovic, LinkedIn: https://www.linkedin.com/in/rudjer-mardjonovic-828a0a275/)
+Fachautor der Fachbeiträge: Rudjer Mardjonovic, Elektrotechnikermeister, DAS Energiewirtschaft, MBA-Student Energiewirtschaft, geschäftsführender Inhaber von MGI; begleitet die Netzintegration von Erzeugungsanlagen seit 2019. Bei der Erstellung der Fachbeiträge werden KI-Werkzeuge unterstützend eingesetzt; die fachliche Prüfung und die redaktionelle Verantwortung liegen beim Fachautor (Autorenprofil: https://www.m-gi.eu/rudjer-mardjonovic, LinkedIn: https://www.linkedin.com/in/rudjer-mardjonovic-828a0a275/)
 Registereintrag: Amtsgericht Traunstein HRB 14424
 Telefon (Zentrale): +49 8624 823373-0
 E-Mail: info@m-gi.eu
@@ -95,9 +95,7 @@ Anlagenbetreiber, Projektentwickler, Generalunternehmer, Elektroplaner, Anlagenb
 
 Die kurze Antwort: Für die technische Gesamtkoordination eines Netzanschlusses gibt es ohne Projektdaten keinen belastbaren Pauschalpreis. MGI kalkuliert den Aufwand anhand von fünf Faktoren: Anlagenleistung und -spannungsebene, Anlagentyp, Projektphase beim Einstieg, Zahl der Projektbeteiligten und Leistungsumfang. Nach einem Erstgespräch von maximal 30 Minuten erhalten Sie ein projektspezifisches Angebot.
 
-Für die Investitionsentscheidung zählt deshalb nicht nur das Honorar, sondern vor allem die Gegenrechnung: Was kostet ein unkoordinierter oder verzögerter Netzanschluss? Die transparente Beispielrechnung in diesem Beitrag ergibt für eine 10-MW-PV-Anlage rund 11.500 € entgangenen Erlös pro Woche.
-
-Ein Ergebnis aus unserer eigenen Projektpraxis zeigt die andere Seite: Bei einem Industriekunden, dessen Betriebserlaubnis vor der Übernahme durch MGI entzogen worden war, wurden durch optimierte Elektroplanung und technische Abstimmung mit dem Netzbetreiber rund 100.000 € eingespart.
+Für die Investitionsentscheidung zählt deshalb nicht nur das Honorar, sondern vor allem die Gegenrechnung: Was kostet ein unkoordinierter oder verzögerter Netzanschluss? Die transparente Beispielrechnung in diesem Beitrag ergibt für eine 10-MW-PV-Anlage rund 11.500 € entgangenen Erlös pro Woche. Ein Ergebnis aus unserer eigenen Projektpraxis zeigt die andere Seite: Bei einem Industriekunden, dessen Betriebserlaubnis vor der Übernahme durch MGI entzogen worden war, wurden durch optimierte Elektroplanung und technische Abstimmung mit dem Netzbetreiber rund 100.000 € eingespart (Unternehmensangabe).
 
 Im Folgenden trennen wir klar zwischen Kostentreibern, Vergütungsmodellen, einer nachvollziehbaren Beispielrechnung und Ergebnissen aus unserer eigenen Projektpraxis. So sehen Sie, wovon die Kosten abhängen, was im Leistungsumfang enthalten ist und ab wann sich die Investition rechnet.
 
@@ -157,7 +155,7 @@ Rechenweg: 10.000 kWp × 1.000 kWh pro kWp ergeben 10.000.000 kWh Jahresertrag. 
 
 ### Weitere Kosten, die Verzögerungen verursachen
 
-Die Modellrechnung erfasst nur den entgangenen Erlös. Hinzukommen können Vertragsstrafen bei Terminverzug, laufende Finanzierungskosten für gebundenes Kapital, Nacharbeiten und Umplanungen sowie internes Personal, das über Monate Schnittstellen koordiniert statt Projekte zu entwickeln. Gemessen an diesen Positionen ist die technische Gesamtkoordination regelmäßig der kleinste Kostenblock im gesamten Netzanschluss. Den vollständigen Katalog aller sieben Kostenarten finden Sie im Beitrag „Welche Kosten entstehen durch Verzögerungen im Netzanschlussprozess?".
+Die Modellrechnung erfasst nur den entgangenen Erlös. Hinzukommen können Vertragsstrafen bei Terminverzug, laufende Finanzierungskosten für gebundenes Kapital, Nacharbeiten und Umplanungen sowie internes Personal, das über Monate Schnittstellen koordiniert statt Projekte zu entwickeln. Gemessen an diesen Positionen ist die technische Gesamtkoordination regelmäßig der kleinste Kostenblock im gesamten Netzanschluss. Den vollständigen Katalog aller sieben Kostenarten finden Sie im Beitrag „Welche Kosten entstehen durch Verzögerungen im Netzanschlussprozess?“.
 
 ### Wenn Fristen kippen: Konformitätserklärung und Betriebserlaubnis
 
@@ -177,7 +175,7 @@ Der wirtschaftliche Maßstab ist einfach: Die Koordination rechnet sich, sobald 
 
 - Bei einem kombinierten Energieprojekt im Raum München mit 10,452 MW aus BHKW, Photovoltaik und Batteriespeicher dauerte die Zertifizierung zwölf Wochen, die Konformitätserklärung lag nach zehn Wochen vor.
 
-- Bei einem Industriekunden, dessen Betriebserlaubnis vor der Übernahme durch MGI entzogen worden war, wurden durch die Optimierung der Elektroplanung und die technische Abstimmung mit dem Netzbetreiber rund 100.000 € eingespart - die Anlage ist wieder am Netz und vollständig konform.
+- Bei einem Industriekunden, dessen Betriebserlaubnis vor der Übernahme durch MGI entzogen worden war, wurden durch die Optimierung der Elektroplanung und die technische Abstimmung mit dem Netzbetreiber rund 100.000 € eingespart (Unternehmensangabe) - die Anlage ist wieder am Netz und vollständig konform.
 
 Aus diesen Projektergebnissen lassen sich zwei praktische Regeln ableiten. Erstens: Je früher die Koordination beginnt, desto größer ist der Spielraum für Zeit- und Kosteneinsparungen. Zweitens: Bei sonst gleichen Annahmen steigt der entgangene Einspeiseerlös proportional zur Anlagenleistung; ob sich die Koordination dadurch schneller amortisiert, hängt zusätzlich vom Honorar und vom tatsächlich vermeidbaren Verzögerungsanteil ab. Unser Fokus liegt deshalb auf Mischanlagen ab 135 kW und auf reinen Einspeiseanlagen ab 1 MW.
 
@@ -216,6 +214,10 @@ Für einen belastbaren Preis benötigt MGI drei Gruppen von Eckdaten: Anlagentyp
 - Einschalten: Wir begleiten Inbetriebsetzung, Nachweise und Dokumentation bis zur endgültigen Betriebserlaubnis.
 
 Jetzt Erstgespräch vereinbaren: Rufen Sie uns unter +49 8624 823373-0 an, schreiben Sie uns an info@m-gi.eu oder nutzen Sie das Kontaktformular. Was die technische Gesamtkoordination Ihres Netzanschlusses kostet, wissen Sie nach einem einzigen Gespräch - schwarz auf weiß.
+
+## Methodik dieses Beitrags
+
+Die Zahlen zu Verzögerungskosten sind eine Modellrechnung, kein Messwert und keine Auswertung von Projektdaten. Annahmen: 10.000 kWp, 1.000 kWh pro kWp und Jahr, 6 Cent pro kWh. Rechenweg: 10.000 kWp × 1.000 kWh = 10.000.000 kWh pro Jahr; × 0,06 € = 600.000 € pro Jahr; geteilt durch 52 Wochen ergibt rund 11.500 € pro Woche. Erfasst ist nur der entgangene Erlös; Vertragsstrafen, Finanzierungskosten, Nacharbeiten und internes Personal sind nicht eingerechnet. Normative Aussagen beziehen sich auf die VDE-AR-N 4110:2023-09. Projektangaben beschreiben Einzelprojekte aus der Erfahrung des Fachautors und sind keine statistische Auswertung.
 
 ## Zum Mitnehmen: Selbstcheck vor der Angebotsanfrage
 
@@ -313,7 +315,7 @@ Ein Blick auf unsere Referenzprojekte zeigt, welche Durchlaufzeiten mit struktur
 
 Auch komplexe Konstellationen - Mischanlagen, Speicherkombinationen, ein Anschluss auf der 110-kV-Ebene, eine abschnittsweise Inbetriebsetzung - lassen sich in planbaren Zeiträumen durch Zertifizierung und Konformitätserklärung führen. Sind die Unterlagen vollständig und prüffähig vorbereitet, kann es deutlich schneller gehen: In einem unserer Projekte wurde das Anlagenzertifikat innerhalb von 6 Tagen von der Zertifizierungsstelle ausgestellt.
 
-Und manchmal zeigt sich der wirtschaftliche Wert erst im Problemfall: Bei einem Industriekunden mit komplexer Mischanlage war die Betriebserlaubnis entzogen worden, bevor MGI das Projekt übernommen hatte. MGI analysierte das Gesamtsystem, stimmte mit dem Netzbetreiber ein angepasstes Schutzkonzept ab, koordinierte die Überarbeitung der Unterlagen und begleitete die Neuerstellung des Anlagenzertifikats durch den zuständigen Zertifizierer - bis zur endgültigen Betriebserlaubnis. Durch die Optimierung der Elektroplanung und die technische Abstimmung mit dem Netzbetreiber wurden rund 100.000 € eingespart; die Anlage ist wieder am Netz und vollständig konform.
+Und manchmal zeigt sich der wirtschaftliche Wert erst im Problemfall: Bei einem Industriekunden mit komplexer Mischanlage war die Betriebserlaubnis entzogen worden, bevor MGI das Projekt übernommen hatte. MGI analysierte das Gesamtsystem, stimmte mit dem Netzbetreiber ein angepasstes Schutzkonzept ab, koordinierte die Überarbeitung der Unterlagen und begleitete die Neuerstellung des Anlagenzertifikats durch den zuständigen Zertifizierer - bis zur endgültigen Betriebserlaubnis. Durch die Optimierung der Elektroplanung und die technische Abstimmung mit dem Netzbetreiber wurden rund 100.000 € eingespart (Unternehmensangabe); die Anlage ist wieder am Netz und vollständig konform.
 
 ## Wann lohnt es sich nicht?
 
@@ -328,6 +330,10 @@ Ein Netzanschlusskoordinator lohnt sich wirtschaftlich, wenn die vermiedenen Ver
 Wichtig zur Einordnung: MGI ist kein Zertifizierer. Anlagenzertifikat und Konformitätserklärung werden von unabhängigen, akkreditierten Zertifizierungsstellen ausgestellt. MGI übernimmt die technische Gesamtkoordination - die Vorbereitung, Abstimmung und Steuerung aller Beteiligten, damit der Zertifizierer ohne Rückfragen ausstellen kann und Ihr Projekt planbar ans Netz kommt.
 
 Rechnen Sie Ihr Projekt mit uns durch: In einem Anruf von maximal 30 Minuten besprechen wir die notwendigen Details - anschließend erhalten Sie kurzfristig ein maßgeschneidertes Angebot. Rufen Sie uns unter +49 8624 823373-0 an, schreiben Sie uns an info@m-gi.eu oder nutzen Sie das Kontaktformular.
+
+## Methodik dieses Beitrags
+
+Die Wirtschaftlichkeitsbetrachtung nutzt die Modellrechnung aus dem Beitrag "Was kostet die technische Gesamtkoordination eines Netzanschlusses?" (10.000 kWp, 1.000 kWh pro kWp und Jahr, 6 Cent pro kWh, rund 11.500 € pro Woche). Der Wert steigt bei sonst gleichen Annahmen proportional zur Anlagenleistung; für ein konkretes Projekt sind Leistung, Ertrag und Erlös durch eigene Werte zu ersetzen. Ob sich eine Koordination lohnt, hängt zusätzlich vom Honorar und vom tatsächlich vermeidbaren Verzögerungsanteil ab. Die Fristen der Konformitätserklärung beruhen auf der VDE-AR-N 4110:2023-09, Abschnitt 11.5.4. Projektangaben beschreiben Einzelprojekte und sind keine statistische Auswertung.
 
 ## Zum Mitnehmen: Ihre Break-even-Rechnung in drei Zeilen
 
@@ -365,7 +371,7 @@ Bei Anlagen unter 135 kW, die nach VDE-AR-N 4105 bewertet werden und kein Anlage
 
 ### Kann MGI auch ein laufendes oder festgefahrenes Projekt übernehmen?
 
-Ja, in jeder Projektphase: Bestandsaufnahme, Lückenanalyse, Abstimmung mit Netzbetreiber und Zertifizierer, anschließend strukturierte Abarbeitung bis zur Konformitätserklärung und zur endgültigen Betriebserlaubnis. In einem Fall wurde eine Anlage, deren Betriebserlaubnis vor der Übernahme durch MGI entzogen worden war, wieder ans Netz gebracht - mit rund 100.000 € an Einsparungen.
+Ja, in jeder Projektphase: Bestandsaufnahme, Lückenanalyse, Abstimmung mit Netzbetreiber und Zertifizierer, anschließend strukturierte Abarbeitung bis zur Konformitätserklärung und zur endgültigen Betriebserlaubnis. In einem Fall wurde eine Anlage, deren Betriebserlaubnis vor der Übernahme durch MGI entzogen worden war, wieder ans Netz gebracht - mit rund 100.000 € an Einsparungen (Unternehmensangabe).
 
 Fachautor: Rudjer Mardjonovic, Elektrotechnikermeister, DAS Energiewirtschaft, MBA-Student Energiewirtschaft, geschäftsführender Inhaber von Mardjonovic grid integration GmbH & Co. KG (MGI) · Letzte fachliche Prüfung: September 2026 · Bei der Erstellung wurden KI-Werkzeuge unterstützend eingesetzt; die fachliche Prüfung sowie die redaktionelle Verantwortung liegen beim Fachautor.
 
@@ -443,6 +449,10 @@ An diesen Risiken setzt die technische Gesamtkoordination an: MGI hält die Fris
 
 Wenn Sie wissen wollen, welche dieser Kostenarten in Ihrem Projekt bereits anfallen, gehen wir in einem Erstgespräch von maximal 30 Minuten Ihre Terminkette und die kritischen Fristen durch. Rufen Sie uns unter +49 8624 823373-0 an, schreiben Sie uns an info@m-gi.eu oder nutzen Sie das Kontaktformular.
 
+## Methodik dieses Beitrags
+
+Der Kostenkatalog (sieben Kostenarten) ist eine Checkliste, keine Auswertung gemessener Projektkosten. Die einzige Berechnung ist die Modellrechnung aus dem Beitrag "Was kostet die technische Gesamtkoordination eines Netzanschlusses?" (10.000 kWp, 1.000 kWh pro kWp und Jahr, 6 Cent pro kWh, rund 11.500 € pro Woche Stillstand). Fristen, Stichtage und Übergangsregelungen (VDE-AR-N 4110, TAB und BDEW-Musterwortlaut der Bayernwerk Netz GmbH) sind mit dem Stand der Veröffentlichung wiedergegeben; maßgeblich ist der jeweils aktuelle Wortlaut des Netzbetreibers und der Norm.
+
 ## Zum Mitnehmen: Die 7-Kostenarten-Checkliste für Ihre Projektkalkulation
 
 Prüfen Sie, welche dieser Posten Ihre Kalkulation bereits abbildet - und welche fehlen:
@@ -489,7 +499,7 @@ Fachautor: Rudjer Mardjonovic, Elektrotechnikermeister, DAS Energiewirtschaft, M
 
 ### Fachbeitrag: Wie viel Geld kann durch eine frühzeitige Netzanschlusskoordination eingespart werden? (Volltext)
 
-Die kurze Antwort: Eine exakte Kennzahl "X Euro gespart durch früh statt spät" gibt es bei MGI nicht - dafür müsste dasselbe Projekt einmal früh und einmal spät koordiniert und verglichen werden, und diesen Gegenprobe-Vergleich liefert kein reales Projekt. Was sich stattdessen zeigen lässt: Der Zeitpunkt der Einbindung entscheidet darüber, welche Kostenarten aus unserem Verzögerungskosten-Katalog überhaupt vermeidbar sind. Wird die Koordination vor der Anlagenanmeldung aufgenommen, lassen sich Rückfragen, Nachbesserungsschleifen und der Verlust von Regelwerks-Stichtagen strukturell verhindern, statt sie später zu beheben. Die Größenordnung des Risikos zeigt unsere offen deklarierte Modellrechnung: rund 11.500 € entgangener Erlös pro Woche Stillstand bei einer 10-MW-PV-Anlage. Was es kostet, wenn diese frühe Koordination fehlt, zeigt ein realer Fall aus unserer Projektpraxis: Bei einem Industriekunden war die Betriebserlaubnis bereits entzogen, bevor MGI das Projekt übernahm - die anschließende Sanierung sparte rund 100.000 € gegenüber der ursprünglich drohenden Situation, kam aber erst nach dem Ausfall zustande.
+Die kurze Antwort: Eine exakte Kennzahl "X Euro gespart durch früh statt spät" gibt es bei MGI nicht - dafür müsste dasselbe Projekt einmal früh und einmal spät koordiniert und verglichen werden, und diesen Gegenprobe-Vergleich liefert kein reales Projekt. Was sich stattdessen zeigen lässt: Der Zeitpunkt der Einbindung entscheidet darüber, welche Kostenarten aus unserem Verzögerungskosten-Katalog überhaupt vermeidbar sind. Wird die Koordination vor der Anlagenanmeldung aufgenommen, lassen sich Rückfragen, Nachbesserungsschleifen und der Verlust von Regelwerks-Stichtagen strukturell verhindern, statt sie später zu beheben. Die Größenordnung des Risikos zeigt unsere offen deklarierte Modellrechnung: rund 11.500 € entgangener Erlös pro Woche Stillstand bei einer 10-MW-PV-Anlage. Was es kostet, wenn diese frühe Koordination fehlt, zeigt ein realer Fall aus unserer Projektpraxis: Bei einem Industriekunden war die Betriebserlaubnis bereits entzogen, bevor MGI das Projekt übernahm - die anschließende Sanierung sparte rund 100.000 € (Unternehmensangabe) gegenüber der ursprünglich drohenden Situation, kam aber erst nach dem Ausfall zustande.
 
 ## Warum der Zeitpunkt der Einbindung über die Kosten entscheidet
 
@@ -523,7 +533,7 @@ Dieser Wert beantwortet nicht die Frage "Was spart frühe Koordination?" direkt 
 
 Der folgende Fall zeigt nicht den Unterschied zwischen früh und spät am selben Projekt - ein solcher Vergleich ist bei einem einzelnen Projekt technisch nicht messbar, weil es keine Gegenprobe ohne Koordination gibt. Er zeigt, was passieren kann, wenn eine Anlage ohne technische Gesamtkoordination in ernsthafte Schwierigkeiten gerät.
 
-Bei einem Industriekunden mit komplexer Mischanlage war die Betriebserlaubnis bereits entzogen, bevor MGI das Projekt übernahm. MGI analysierte das Gesamtsystem, stimmte mit dem Netzbetreiber ein angepasstes Schutzkonzept ab, koordinierte die Überarbeitung der Unterlagen und begleitete die Neuerstellung des Anlagenzertifikats bis zur endgültigen Betriebserlaubnis. Durch die Optimierung der Elektroplanung und die technische Abstimmung mit dem Netzbetreiber wurden rund 100.000 € eingespart; die Anlage ist wieder am Netz und vollständig konform.
+Bei einem Industriekunden mit komplexer Mischanlage war die Betriebserlaubnis bereits entzogen, bevor MGI das Projekt übernahm. MGI analysierte das Gesamtsystem, stimmte mit dem Netzbetreiber ein angepasstes Schutzkonzept ab, koordinierte die Überarbeitung der Unterlagen und begleitete die Neuerstellung des Anlagenzertifikats bis zur endgültigen Betriebserlaubnis. Durch die Optimierung der Elektroplanung und die technische Abstimmung mit dem Netzbetreiber wurden rund 100.000 € eingespart (Unternehmensangabe); die Anlage ist wieder am Netz und vollständig konform.
 
 Dieser Fall ist ein Beispiel für erfolgreiche Sanierung nach einem bereits eingetretenen Problem - nicht für frühe Koordination. Er zeigt trotzdem, in welcher Größenordnung sich Fehler bewegen können, die eine frühe technische Abstimmung von vornherein vermieden hätte: Ein abgestimmtes Schutzkonzept und ein korrekt geplanter Netzanschluss hätten diese nachträgliche Korrektur gar nicht erst nötig gemacht.
 
@@ -538,6 +548,10 @@ MGI kann trotzdem in jeder späteren Projektphase einsteigen. Je später der Ein
 Eine feste Ersparnis in Euro lässt sich für "früh statt spät" nicht seriös beziffern, weil kein Projekt beide Varianten gleichzeitig durchläuft. Belastbar ist dagegen: Frühe Koordination entscheidet, welche Kostenarten überhaupt entstehen können, jede vermiedene Woche ist nach unserer Modellrechnung mehrere tausend Euro wert, und ein realer Sanierungsfall aus unserer Praxis zeigt, in welcher Größenordnung sich die Folgen bewegen können, wenn diese frühe Abstimmung fehlt. Zur Rollenklarheit: MGI ist kein Zertifizierer. Anlagenzertifikat und Konformitätserklärung stellen ausschließlich unabhängige, akkreditierte Zertifizierungsstellen aus; MGI koordiniert die technische Gesamtkoordination von der Anlagenanmeldung bis zur endgültigen Betriebserlaubnis und arbeitet dabei eng mit der jeweiligen Zertifizierungsstelle zusammen.
 
 Wenn Sie klären wollen, ab welchem Punkt Ihr Projekt steht und welche Entscheidungen noch offen sind, gehen wir das in einem Erstgespräch von maximal 30 Minuten durch. Rufen Sie uns unter +49 8624 823373-0 an, schreiben Sie uns an info@m-gi.eu oder nutzen Sie das Kontaktformular.
+
+## Methodik dieses Beitrags
+
+Eine feste Ersparnis in Euro wird bewusst nicht genannt: Dafür müsste dasselbe Projekt einmal früh und einmal spät koordiniert werden, einen solchen Vergleich liefert kein reales Projekt. Die Größenordnung stammt aus der offen deklarierten Modellrechnung (10.000 kWp, 1.000 kWh pro kWp und Jahr, 6 Cent pro kWh, rund 11.500 € pro Woche; bei 100 MW rund 115.000 € pro Woche). Der zeitliche Ablauf stützt sich auf die VDE-AR-N 4110:2023-09 (t1 = 0 mit der Anmeldung). Der geschilderte Praxisfall ist ein Einzelfall aus der Projektpraxis des Fachautors und keine statistische Auswertung.
 
 ## Zum Mitnehmen: Checkliste - Was hängt bei Ihrem Projekt vom Zeitpunkt der Einbindung ab?
 
@@ -609,4 +623,4 @@ A: Mit einem telefonischen Erstgespräch von maximal 30 Minuten (+49 8624 823373
 
 ---
 
-Stand dieser Datei: 14.11.2026. Bei Widersprüchen zwischen dieser Datei und der Website gilt die Website.
+Stand dieser Datei: 18.11.2026. Bei Widersprüchen zwischen dieser Datei und der Website gilt die Website.
